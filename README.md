@@ -1,5 +1,5 @@
 ### Bonjour ! 👋
-Moi c'est Jules (aka Bigaston), je termine acutellement un DUT Informatique, avant de continuer sur une Licence Professionnelle dans l'informatique.
+Moi c'est Jules (aka Bigaston), je termine actuellement un DUT Informatique, avant de continuer sur une Licence Professionnelle dans l'informatique.
 
 Ici vous trouverez mes projets. J'aime énormément expérimenter sur pleins de points différents du Web, donc il y a des chances pour que vous trouviez des prototypes un peu moches et non terminés. Je développe aussi différents outils tels que [YouPod](https://app.youpod.io), [PodChapter](https://podchapter.bigaston.dev/), ou bien d'autres trucs. N'hésitez pas à retrouver la liste de tous mes projets sur [mon site](https://bigaston.me/project)
 
