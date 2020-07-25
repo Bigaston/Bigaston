@@ -6,6 +6,10 @@ Ici vous trouverez mes projets. J'aime énormément expérimenter sur pleins de 
 ### Skills ⚡
 Principalement dans le domaine du Web, puisque c'est le domaine dans lequel j'aime le plus expérimenter. Mais j'ai quand même expérimenté différents domaines comme la gestion de serveur dédié, la création d'application lourde en C# ou Electron, les applications Android en Java...
 
+### Podcast 🎙️
+J'anime plusieurs podcasts, dont un appelé Script, dans lequel j'essaye de vulgariser les principes de l'informatique! Vous pouvez le retrouver sur [script.lepodcast.fr](https://script.lepodcast.fr) ou sur l'image si dessous!  
+[![Script](https://podimage.bigaston.dev/v1/i/aHR0cHM6Ly9zY3JpcHQubGVwb2RjYXN0LmZyL3Jzcw==)](https://podimage.bigaston.dev/v1/r/aHR0cHM6Ly9zY3JpcHQubGVwb2RjYXN0LmZyL3Jzcw==)
+
 ### Me suivre 📫
 Pour me contacter le plus simple ça reste de passer par les différents endroit ci dessous :
 - 🐦 [Twitter](https://twitter.com/Bigaston)
