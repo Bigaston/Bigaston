@@ -17,3 +17,7 @@ Pour me contacter le plus simple ça reste de passer par les différents endroit
 - 📧 Email : bonsoir at bigaston.me
 
 💸 Pour me soutenir financièrement pour mes créations, c'est possible sur [uTip](https://utip.io/Bigaston)
+
+### Stats 📊
+[![Bigaston's github stats](https://github-readme-stats.vercel.app/api?username=Bigaston)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigaston)](https://github.com/anuraghazra/github-readme-stats)
