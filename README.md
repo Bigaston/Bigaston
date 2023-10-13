@@ -8,9 +8,4 @@ On the past I've worked on:
 
 I've also work on differents GameJam and small projects, all available on [poulain.dev/projects](https://poulain.dev/projects)
 
-### Skills 🧠
-My main center of skills is Web Environment with JavaScript, TypeScript, React, Svelte, Electron.  
-But I've also worked on video games, with **Unity (🪦)**, **Godot**, Unreal Engine, Love2D, PICO-8, PlayDate, PixiJS... I like to adapt on the technology I'm working on!  
-I've also some DevOps skills, with Servers Management, Docker, Github Actions...
-
 <img src="https://myreadme.vercel.app/api/embed/Bigaston?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
