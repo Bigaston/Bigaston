@@ -8,4 +8,6 @@ On the past I've worked on:
 
 I've also work on differents GameJam and small projects, all available on [bigaston.itch.io](https://bigaston.itch.io)
 
+<img src="https://bigaston.me/api/latest_games.svg" alt="Latest Games" />
+
 <img src="https://myreadme.vercel.app/api/embed/Bigaston?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
