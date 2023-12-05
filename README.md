@@ -1,5 +1,5 @@
 ## Hello ! 👋
-I'm Jules Poulain, aka Bigaston. For now I study game development at [CNAM-ENJMIN](https://enjminbundle.itch.io/).
+I'm Bigaston. For now I study game development at [CNAM-ENJMIN](https://enjminbundle.itch.io/).
 
 ### Projects 🪚
 <a href="https://bigaston.itch.io"><img src="https://bigaston.me/api/latest_games.svg" style="width:100%" /></a>
