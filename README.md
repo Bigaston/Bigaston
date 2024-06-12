@@ -1,7 +1,7 @@
 ## Hello ! 👋
 I'm Bigaston. For now I study game development at [CNAM-ENJMIN](https://enjminbundle.itch.io/).
 
-![My Skills](https://skillicons.dev/icons?i=unity,godot,cs,cpp,lua,python,ts,html,css,vite,docker,git,github,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=unity,godot,unreal,cs,cpp,lua,python,ts,html,css,vite,docker,git,github,vscode,visualstudio)
 
 ### Projects 🪚
 <a href="https://bigaston.itch.io"><img src="https://bigaston.me/api/latest_games.svg?" style="width:100%" /></a>
