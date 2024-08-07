@@ -1,5 +1,5 @@
 ## Hello ! 👋
-I'm Bigaston. For now I study game development at [CNAM-ENJMIN](https://enjminbundle.itch.io/).
+I'm Bigaston. I've studied Game Development at [CNAM-ENJMIN](https://enjminbundle.itch.io/), and now I work at ■■■■■■■■■.
 
 ![My Skills](https://skillicons.dev/icons?i=unity,godot,unreal,cs,cpp,lua,python,ts,html,css,vite,docker,git,github)
 
