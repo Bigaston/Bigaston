@@ -13,5 +13,3 @@ On the past I've worked on:
 - 🔴 [YouPod](https://youpod.io) (now part of [podCloud](https://podcloud.fr)): Convert all your podcast episodes into Video for YouTube, Mastodon, Instagram, for free!
 
 I've also work on differents GameJam and small projects, all available on [bigaston.itch.io](https://bigaston.itch.io) and I'm part of [ilve.games](https://ilve.games)
-
-<img style="width:100%" src="https://myreadme.vercel.app/api/embed/Bigaston?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
