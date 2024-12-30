@@ -2,7 +2,7 @@
 I'm Bigaston. I've studied Game Development at [CNAM-ENJMIN](https://enjminbundle.itch.io/), and now I work at ■■■■■■■■■.  
 I love to develop for the web to, with [11ty](https://11ty.dev) and a big emphasis on Static Site and lightweight tech.
 
-![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal,cs,cpp,lua,python,ts,html,css,vite,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal,cs,cpp,lua,go,python,ts,html,css,vite,docker,git,github)
 
 ### Projects 🪚
 <a href="https://bigaston.itch.io"><img src="https://bigaston.me/api/latest_games.svg?" style="width:100%" /></a>
@@ -13,3 +13,5 @@ On the past I've worked on:
 - 🔴 [YouPod](https://youpod.io) (now part of [podCloud](https://podcloud.fr)): Convert all your podcast episodes into Video for YouTube, Mastodon, Instagram, for free!
 
 I've also work on differents GameJam and small projects, all available on [bigaston.itch.io](https://bigaston.itch.io) and I'm part of [ilve.games](https://ilve.games)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A05WS6)
