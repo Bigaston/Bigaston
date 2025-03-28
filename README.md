@@ -1,11 +1,13 @@
 ## Hello ! 👋
 I'm Bigaston. I've studied Game Development at [CNAM-ENJMIN](https://enjminbundle.itch.io/), and now I work at ■■■■■■■■■.  
-I love to develop for the web to, with [11ty](https://11ty.dev) and a big emphasis on Static Site and lightweight tech.
+I love to develop for the web to, with [11ty](https://11ty.dev) and a big emphasis on Static Site and lightweight tech. And I create some games to.
 
-![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal,cs,cpp,lua,go,python,ts,html,css,vite,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal,cs,cpp,lua,go,ts,html,css,vite,docker,git)
 
 ### Projects 🪚
 <a href="https://bigaston.itch.io"><img src="https://bigaston.me/api/latest_games.svg?" style="width:100%" /></a>
+
+I'm working on **🚁 FunPV**, a Cozy FPV Drone simulator made with Godot, that will be soon available on Steam!
 
 On the past I've worked on:
 - 🤖 [Suburbia Electronica](https://sleepytristan.itch.io/suburbia-electronica): Suburbia Electronica is an adventure game about kindness, love, and all things that could make a robot's heart glow just a bit softer.
